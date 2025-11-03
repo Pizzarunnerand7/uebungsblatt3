@@ -7,11 +7,11 @@ public class P2_main {
 		int b = 4;
 		int c = 1;
 		int d = 2;
-		d=0;
+		d = 0;
 		boolean E1 = a == b;
 		boolean E2 = a == b || a == c;
-		boolean E3 = a+b >= c;
-		boolean E4 = a+b+c >= 100;
+		boolean E3 = a + b >= c;
+		boolean E4 = a + b + c >= 100;
 		if (E1) {
 			d++;
 		}
